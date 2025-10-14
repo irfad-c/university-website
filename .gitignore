@@ -1,0 +1,27 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Node or dependency folders (if used later)
+node_modules/
+
+# Build/output folders
+dist/
+build/
+
+# Log or temp files
+*.log
+*.tmp
+
+# Font Awesome - ignore unnecessary folders
+fontawesome-free-6.7.2-web/less/
+fontawesome-free-6.7.2-web/scss/
+fontawesome-free-6.7.2-web/metadata/
+fontawesome-free-6.7.2-web/sprites/
+fontawesome-free-6.7.2-web/svgs/
+fontawesome-free-6.7.2-web/js/
